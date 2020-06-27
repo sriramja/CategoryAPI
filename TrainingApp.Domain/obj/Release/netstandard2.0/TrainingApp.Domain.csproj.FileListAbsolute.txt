@@ -1,0 +1,9 @@
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Release\netstandard2.0\TrainingApp.Domain.deps.json
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Release\netstandard2.0\TrainingApp.Domain.dll
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Release\netstandard2.0\TrainingApp.Domain.pdb
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Release\netstandard2.0\TrainingApp.Domain.csprojAssemblyReference.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Release\netstandard2.0\TrainingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Release\netstandard2.0\TrainingApp.Domain.AssemblyInfo.cs
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Release\netstandard2.0\TrainingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Release\netstandard2.0\TrainingApp.Domain.dll
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Release\netstandard2.0\TrainingApp.Domain.pdb

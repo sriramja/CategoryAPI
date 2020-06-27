@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TrainingApp.DataAccess\TrainingApp.DataAccess.csproj" />
+    <ProjectReference Include="..\TrainingApp.Domain\TrainingApp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

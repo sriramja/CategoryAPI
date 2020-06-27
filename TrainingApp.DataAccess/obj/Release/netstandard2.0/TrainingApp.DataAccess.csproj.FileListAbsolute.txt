@@ -1,0 +1,12 @@
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\bin\Release\netstandard2.0\TrainingApp.DataAccess.deps.json
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\bin\Release\netstandard2.0\TrainingApp.DataAccess.dll
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\bin\Release\netstandard2.0\TrainingApp.DataAccess.pdb
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\bin\Release\netstandard2.0\TrainingApp.Domain.dll
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\bin\Release\netstandard2.0\TrainingApp.Domain.pdb
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\obj\Release\netstandard2.0\TrainingApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\obj\Release\netstandard2.0\TrainingApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\obj\Release\netstandard2.0\TrainingApp.DataAccess.AssemblyInfo.cs
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\obj\Release\netstandard2.0\TrainingApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\obj\Release\netstandard2.0\TrainingApp.DataAccess.csproj.CopyComplete
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\obj\Release\netstandard2.0\TrainingApp.DataAccess.dll
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.DataAccess\obj\Release\netstandard2.0\TrainingApp.DataAccess.pdb

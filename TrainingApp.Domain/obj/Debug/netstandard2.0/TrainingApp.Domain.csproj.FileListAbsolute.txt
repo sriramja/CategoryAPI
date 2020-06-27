@@ -1,0 +1,17 @@
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\bin\Debug\netstandard2.0\TrainingApp.Domain.deps.json
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\bin\Debug\netstandard2.0\TrainingApp.Domain.dll
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\bin\Debug\netstandard2.0\TrainingApp.Domain.pdb
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.csprojAssemblyReference.cache
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.AssemblyInfo.cs
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.dll
+C:\Users\ltiuser12\Desktop\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.pdb
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Debug\netstandard2.0\TrainingApp.Domain.deps.json
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Debug\netstandard2.0\TrainingApp.Domain.dll
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\bin\Debug\netstandard2.0\TrainingApp.Domain.pdb
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.AssemblyInfo.cs
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.dll
+C:\Users\srira\Downloads\TrainingApp\TrainingApp\TrainingApp.Domain\obj\Debug\netstandard2.0\TrainingApp.Domain.pdb

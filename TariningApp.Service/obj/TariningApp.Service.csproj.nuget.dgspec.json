@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TariningApp.Service\\TariningApp.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TariningApp.Service\\TariningApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TariningApp.Service\\TariningApp.Service.csproj",
+        "projectName": "TariningApp.Service",
+        "projectPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TariningApp.Service\\TariningApp.Service.csproj",
+        "packagesPath": "C:\\Users\\srira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TariningApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\srira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.DataAccess\\TrainingApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.DataAccess\\TrainingApp.DataAccess.csproj"
+              },
+              "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\TrainingApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\TrainingApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.DataAccess\\TrainingApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.DataAccess\\TrainingApp.DataAccess.csproj",
+        "projectName": "TrainingApp.DataAccess",
+        "projectPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.DataAccess\\TrainingApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\srira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\srira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\TrainingApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\TrainingApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\TrainingApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\TrainingApp.Domain.csproj",
+        "projectName": "TrainingApp.Domain",
+        "projectPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\TrainingApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\srira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\srira\\Downloads\\TrainingApp\\TrainingApp\\TrainingApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\srira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

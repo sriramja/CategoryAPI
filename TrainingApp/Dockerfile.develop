@@ -1,0 +1,21 @@
+FROM mcr.microsoft.com/dotnet/core/sdk:3.1
+ARG BUILD_CONFIGURATION=Debug
+ENV ASPNETCORE_ENVIRONMENT=Development
+ENV ASPNETCORE_URLS=http://+:80
+ENV DOTNET_USE_POLLING_FILE_WATCHER=true
+EXPOSE 80
+
+WORKDIR /src
+COPY ["TariningApp.Service/TrainingApp.Service.csproj", "TariningApp.Service/"]
+COPY ["TrainingApp.DataAccess/TrainingApp.DataAccess.csproj", "TrainingApp.DataAccess/"]
+COPY ["TrainingApp.Domain/TrainingApp.Domain.csproj", "TrainingApp.Domain/"]
+COPY ["TrainingApp/TrainingApp.csproj", "TrainingApp/"]
+
+RUN dotnet restore "TrainingApp/TrainingApp.csproj"
+COPY . .
+WORKDIR "/src/TrainingApp"
+RUN dotnet build --no-restore "TrainingApp.csproj" -c $BUILD_CONFIGURATION
+
+RUN echo "exec dotnet run --no-build --no-launch-profile -c $BUILD_CONFIGURATION --" > /entrypoint.sh
+
+ENTRYPOINT ["/bin/bash", "/entrypoint.sh"]
